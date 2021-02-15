@@ -16,7 +16,7 @@ public class GitHubExempel {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Detta är ett Github exempel."),
+        System.out.println("Detta är ett Github exempel.");
         System.out.println("detta är en ny rad");
         
         

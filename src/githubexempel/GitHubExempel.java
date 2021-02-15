@@ -21,6 +21,10 @@ public class GitHubExempel {
         System.out.println("Detta är en tredje rad!");
         
         
+        //Detta är en kommentarsrad inlagt av användare2
+        //Denna rad representerar mer kod
+        
+        
         
     }
     
